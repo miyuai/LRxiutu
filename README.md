@@ -1,4 +1,4 @@
-# lightroom-film
+# LRxiutu
 
 Claude Code 插件：Lightroom Classic 智能人像修图。
 
@@ -20,7 +20,7 @@ Claude Code 插件：Lightroom Classic 智能人像修图。
 
 ```bash
 # 链接到 Claude Code 插件目录
-ln -s "$HOME/Documents/claude code/lightroom-film" "$HOME/.claude-plugins/lightroom-film"
+ln -s "$HOME/Documents/claude code/LRxiutu" "$HOME/.claude-plugins/LRxiutu"
 ```
 
 ## 使用
@@ -34,7 +34,7 @@ ln -s "$HOME/Documents/claude code/lightroom-film" "$HOME/.claude-plugins/lightr
 ## 文件结构
 
 ```
-skills/lightroom-film/
+skills/LRxiutu/
 ├── SKILL.md                    # 入口 + 工作流
 └── references/
     ├── time-periods.md         # 6时段参数 + 曝光/色温/锐度规则
