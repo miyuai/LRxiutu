@@ -1,0 +1,8 @@
+{
+  "name": "LRxiutu",
+  "version": "2.0.0",
+  "description": "Lightroom 智能人像修图 — 时段感知 + HSL双风格 + Color Grading + 清透感维度。需 lightroom-classic MCP server。",
+  "author": {
+    "name": "moyu"
+  }
+}
